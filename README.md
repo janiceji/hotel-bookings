@@ -2,17 +2,6 @@
 
 ## Data 
 
-* ``x-coordinate``: horizontal map coordinate
-* ``y-coordinate``: vertical map coordinate
-* ``expert label``: expert's classification of pixel
-* ``NDAI``: normalized distance angular index (data adaptive)
-* ``SD``: standard deviation of An camera pixel values
-* ``CORR``: correlation of MISR images of same scene from different viewing directions
-* ``radiance angle DF``: raw radiance angle #1 (70.5 degrees)
-* ``radiance angle CF``: raw radiance angle #2 (60.0 degrees)
-* ``radiance angle BF``: raw radiance angle #3 (45.6 degrees)
-* ``radiance angle AF``: raw radiance angle #4 (26.1 degrees)
-* ``radiance angle AN``: raw radiance angle #5 (0 degrees/nadir)
 
 Questions:
 
